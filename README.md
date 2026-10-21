@@ -372,7 +372,7 @@ Choose a license before publishing the project publicly. For example, the MIT Li
 
 **Your Name**
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [polor8689-netizen](https://github.com/polor8689-netizen)
 
 ---
 
